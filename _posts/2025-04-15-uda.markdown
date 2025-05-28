@@ -3,7 +3,7 @@ layout: post
 title:  "Unsupervised Domain Adaptation"
 date:   2025
 categories: IISc
-course: "UMC203- Introduction to AI/ML"
+course: "IISc UMC203- Introduction to AI/ML"
 subtitle: "Collaborative robot state estimation"
 ---
 Reproduced results of domain adaptation algorithms: CORAL, DeepCORAL, Domain Separation
