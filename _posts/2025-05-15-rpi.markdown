@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Validation of Novel Loss Function for Critic in RL"
+date:   2025-03-22 21:21:53 +00:00
+categories: IISc
+course: ""
+author: "Leo Keselman"
+code: https://github.com/EshwarSR/RPI.git
+instructor: "Prof. Gugan Thoppe"
+---
+Working on validating the performance of a new loss function for the critic component in
+reinforcement learning. Performing extensive experiments on MuJoCo benchmarks to compare its performance against
+standard baselines

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Reinforcement Learning: Theory and Applications"
+date:   2025-03-22 21:21:53 +00:00
+categories: IISc
+course: ""
+author: "Leo Keselman"
+code: https://github.com/annimukherjee/hlf-iisc-scalability.git
+instructor: "Prof. Gugan Thoppe"
+---
+Simulated Hyperledger Fabric transaction flow and analyzed resource allocation bottlenecks. Proposed architectural and dynamic optimizations to enhance endorsement, ordering, and
+commit efficiency.
