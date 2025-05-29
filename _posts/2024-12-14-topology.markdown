@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Polygon Spaces and Möbius Transformations"
+date:   2024-03-22 21:21:53 +00:00
+categories: IISc
+course: ""
+author: "Leo Keselman"
+code: https://github.com/krishna16032005/Topology-Project.git
+instructor: "Prof. Subhojoy Gupta"
+---
+Conducted simulations supporting conjectures on simple polygon spaces and topological
+homeomorphisms.

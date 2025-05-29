@@ -7,5 +7,6 @@ course: "E1 277 Reinforcement Learning"
 author: "Leo Keselman"
 code: https://github.com/sahakintan/Distributional-RL.git
 reference_paper: "https://arxiv.org/pdf/1707.06887"
+instructor: "Prof. Shalabh Bhatnagar and Prof. Gugan Thoppe"
 ---
 Recreated and evaluated the C51 algorithm. Compared performance against other SOTA algorithms like DQN.
