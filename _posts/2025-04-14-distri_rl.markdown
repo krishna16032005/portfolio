@@ -6,6 +6,6 @@ categories: IISc
 course: "E1 277 Reinforcement Learning"
 author: "Leo Keselman"
 code: https://github.com/sahakintan/Distributional-RL.git
-referencepaper: "https://arxiv.org/pdf/1707.06887"
+reference_paper: "https://arxiv.org/pdf/1707.06887"
 ---
 Recreated and evaluated the C51 algorithm. Compared performance against other SOTA algorithms like DQN.
